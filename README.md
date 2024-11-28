@@ -199,6 +199,6 @@ maka akan ada file APK nya
 install di device asli :
 
 <p align="center">
- <img src="readme-img/apk_1.png" style="width: 200px; margin:10px" />
- <img src="readme-img/apk_2.png" style="width: 200px; margin:10px" />
+ <img src="readme-img/apk_1.jpg" style="width: 200px; margin:10px" />
+ <img src="readme-img/apk_2.jpg" style="width: 200px; margin:10px" />
 </p>
